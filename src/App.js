@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <h1 className="heading-style">
-        🎰 Welcome to
+        🎰 Welcome to 
         <span style={{ fontWeight: "bold" }}> Slot Machine game 🎰</span>
       </h1>
 
